@@ -348,3 +348,12 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+# Amnesia Stuff
+BuildID_*
+/HPL2/dependencies
+
+# Other Stuff
+.ccls-cache
+/assets
+build
